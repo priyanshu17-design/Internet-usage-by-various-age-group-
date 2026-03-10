@@ -1,2 +1,4 @@
 # Internet-usage-by-various-age-group-
-This sql project focused on learning advanced sql. In this project, I analyzed internet usage patterns and solved real-world sql queries such as:
+![Query 1](screenshot (100).png)
+![Query2](screenshot (101).png)
+![analysis](screenshot(103)(png)
